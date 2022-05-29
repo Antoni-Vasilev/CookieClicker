@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "531349596994",
+    "firebase_url": "https://cookieclicker-cdc6c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "cookieclicker-cdc6c",
+    "storage_bucket": "cookieclicker-cdc6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531349596994:android:5dc5c8773ae0b5553bb6db",
+        "android_client_info": {
+          "package_name": "com.example.cookieclickerv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531349596994-hj479sf4e6b5oj4n632s30vflop2qgmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe0ZF6P_gDOV4IbBgPvp5uiikQJ5LUsJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531349596994-hj479sf4e6b5oj4n632s30vflop2qgmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

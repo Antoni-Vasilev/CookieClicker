@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Cookie Clicker v2</string>
+    <string name="Welcome_to">Welcome to</string>
+    <string name="Continue">Continue</string>
+    <string name="Upgrade">Upgrade</string>
+    <string name="Shop">Shop</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TicketsToMoney">Tickets to Money</string>
+    <string name="View">View</string>
+    <string name="Convert">Convert</string>
+    <string name="GetTickets">Free Tickets</string>
+    <string name="Get">Get</string>
+    <string name="Promo_Code">Promo Code</string>
+    <string name="Use">Use</string>
+    <string name="Money">Money</string>
+    <string name="Tickets">Tickets</string>
+    <string name="Calculate">Calculate</string>
+    <string name="Share">Share</string>
+</resources>
